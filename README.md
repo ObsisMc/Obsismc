@@ -2,8 +2,7 @@
 
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=obsismc&&count_private=true&theme=react&show_icons=True)](https://github.com/anuraghazra/github-readme-stats">
 -->
-- 🌱 I’m currently learning in Rice University, USA
-- 🔭 I’m currently focusing on AI & ML
+- 🔭 I’m currently focusing on LLM and related applications.
 - 📫 Here is my [profile website](https://obsismc.github.io/)
 <!--
 - 👯 I’m looking to collaborate on ...
