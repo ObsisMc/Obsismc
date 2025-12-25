@@ -13,4 +13,4 @@
 - ⚡ Fun fact: ...
 -->
 
-
+[![Ruihao Zhang's GitHub stats](https://github-readme-stats.vercel.app/api?username=ObsisMc)](https://github.com/anuraghazra/github-readme-stats)
